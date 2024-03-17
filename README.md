@@ -9,16 +9,23 @@ Built on a FLutter frontend, and boasting a Convolutional Neural Network (Deep L
 There has been an ever existing communication gap between an individual who can speak and a person with hearing or speaking impairments, since it is not expected for a common man to be aware of sign languages. More than that, the unavailability of a single universal sign language makes it difficult for people with these disabilities to communicate with each other, leading to their isolation.
 
 ## System diagram
-![System Diagram](https://github.com/omkar3012/SignSpeak/blob/master/system_diagram.jpg?raw=true)
+![System Diagram](https://github.com/omkar3012/SignSpeak/blob/master/System_Diagram.png?raw=true)
 
 ## Dataset
 The training dataset can be found [here](https://www.kaggle.com/datasets/ayuraj/asl-dataset)
 
 ## Preview
-![Home Screen](https://github.com/omkar3012/SignSpeak/blob/master/preview_1.jpg?raw=true)
-![Sign-To-Text](https://github.com/omkar3012/SignSpeak/blob/master/preview_2.jpg?raw=true)
-![Text-To-Sign](https://github.com/omkar3012/SignSpeak/blob/master/preview_3.jpg?raw=true)
-![Sign-To-Sign](https://github.com/omkar3012/SignSpeak/blob/master/preview_4.jpg?raw=true)
+Fig: Home Screen
+![Home Screen](https://github.com/omkar3012/SignSpeak/blob/master/Preview_Home_Screen.png?raw=true)
+
+Fig: Sign-To-Text conversion
+![Sign-To-Text](https://github.com/omkar3012/SignSpeak/blob/master/Preview_Sign_To_Text.png?raw=true)
+
+Fig: Text-To-Sign conversion
+![Text-To-Sign](https://github.com/omkar3012/SignSpeak/blob/master/Preview_Text_To_Sign.png?raw=true)
+
+Fig: Sign-To-Sign conversion
+![Sign-To-Sign](https://github.com/omkar3012/SignSpeak/blob/master/Preview_Sign_To_Sign.png?raw=true)
 
 ## Future Scope
 Currently trained on a modest dataset of a single sign language, SignSpeak offers the opportunity to expand the efficacy and applicability horizons of the system developed by incorporating even more robust Deep Learning models
